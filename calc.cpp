@@ -3,10 +3,11 @@ using namespace std;
 
 int main()
 {
-  int a,b,c,d;
+  int a,b,d,e;
   cout<<"Enter nos.: ";
   cin>>a>>b;
-  c=a+b;
-  cout<<c;
+  d=a-b;
+  e=a*b;
+  cout<<d<<e;
   return 0;
 }
