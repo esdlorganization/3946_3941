@@ -8,6 +8,6 @@ int main()
   cin>>a>>b;
   d=a-b;
   e=a*b;
-  cout<<d<<e;
+  //cout<<d<<e;
   return 0;
 }
